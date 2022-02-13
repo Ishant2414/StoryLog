@@ -1,3 +1,3 @@
 So this is a story 
-about rich dad and poor dad
-
+about rich dad and :poor dad
+I am a good author.
